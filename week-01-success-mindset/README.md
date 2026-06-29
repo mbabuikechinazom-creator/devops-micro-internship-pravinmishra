@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that many people spend too much time chasing job titles, social status, and appearances, while neglecting the skills, character, and financial discipline that create long-term success. Most people around me seem to believe that a prestigious title or a flashy lifestyle is the main sign of achievement. I disagree. I believe true success is measured by the value you create, the problems you can solve, and the stability and opportunities you can provide for your family over time. In my view, substance matters more than status.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent effort over time produces better results than short bursts of motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started my engineering career, I focused on learning new technical skills and improving my performance every day instead of waiting until I felt motivated. Over several years, this approach led to promotions from technician roles to a maintenance leadership position. The steady progress produced results that occasional intense effort never could.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The more value you create, the more opportunities come your way.
 
 ### Evidence from my life
 
-Add your answer here...
+I made it a habit to solve plant maintenance problems, improve equipment reliability, and support production targets. As the results became visible, I was entrusted with larger responsibilities, team leadership, and career advancement. The opportunities followed the value I created.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Preparation significantly increases the chances of success.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I prepared thoroughly for interviews, technical projects, audits, or professional assessments, my performance improved noticeably. In contrast, situations where preparation was limited often resulted in weaker outcomes. Repeated experience has shown me that preparation consistently improves results.
 
 ---
 
@@ -135,13 +135,30 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+# Chinazom Mbabuike: The Engineer Who Bridged Industrial Engineering and Digital Transformation
+
+By 2030, Chinazom Mbabuike had earned recognition as a world-renowned engineer whose influence extended across manufacturing, automation, reliability engineering, cloud technologies, and digital transformation. His unique ability to combine traditional engineering expertise with emerging technologies positioned him among the leading innovators shaping the future of industrial operations.
+
+His journey began with a solid foundation in Electrical and Electronics Engineering and more than a decade of hands-on experience in manufacturing, plant commissioning, electrical maintenance, and industrial automation. However, his career accelerated when he embraced continuous learning and expanded into DevOps and Cloud Engineering through a professional micro-internship program and subsequent industry certifications.
+
+Over the years, Chinazom built and deployed cloud-based engineering solutions that transformed the way industrial facilities monitored assets, analyzed equipment performance, and managed maintenance operations. He led projects that integrated industrial control systems with cloud platforms, enabling real-time monitoring, predictive maintenance, and data-driven decision-making.
+
+His technical portfolio showcased a rare blend of industrial engineering and software capabilities. Through GitHub repositories, he published automation scripts, cloud infrastructure projects, CI/CD pipelines, industrial data analytics tools, and AI-assisted maintenance applications. These projects demonstrated how cloud technologies and DevOps practices could improve reliability, scalability, and operational efficiency in manufacturing environments.
+
+As an engineering leader, he managed multidisciplinary teams consisting of engineers, technicians, automation specialists, and digital transformation professionals. He successfully led major modernization projects that reduced downtime, improved production output, enhanced energy efficiency, and strengthened operational resilience. Several of these projects became benchmark case studies within the industry.
+
+His commitment to professional growth resulted in certifications across industrial automation, cloud computing, DevOps engineering, artificial intelligence, reliability engineering, and engineering management. He also published technical articles and industry insights that helped engineers understand the practical application of cloud technologies, automation, and AI within industrial settings.
+
+Beyond technical accomplishments, Chinazom became a respected mentor and educator. He contributed to the development of future engineering talent through workshops, technical presentations, mentorship programs, and professional coaching. His work inspired engineers to embrace both traditional engineering principles and modern digital skills.
+
+By 2030, Chinazom Mbabuike had become widely recognized as an engineer who successfully bridged the gap between operational technology and information technology. His contributions demonstrated how engineering excellence, digital innovation, and lifelong learning could be combined to solve real-world industrial challenges and create lasting impact on a global scale.
+![alt text](image.png)
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`www.linkedin.com/in/chinazom-mbabuike-89119b13a`
 
 ---
 
@@ -173,7 +190,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes**
+
+**What emotion did you feel?**
+
+I felt a mixture of guilt, stress, and fear. Even though cutting corners may have seemed like a faster way to complete a task or meet a deadline, I found that the emotional cost was higher than the short-term benefit. The feeling of knowing that I had not given my best effort created discomfort and anxiety about potential consequences. I also worried about whether the decision could affect other people or damage trust that had been built over time. Looking back, the experience reinforced the importance of integrity, accountability, and doing things properly, even when it requires more effort or takes longer to achieve the desired result.
 
 ---
 
@@ -199,16 +220,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. Deep Work: Rules for Focused Success in a Distracted World — Cal Newport
+3. The 5 am Club — Robin Sharma
+4. How to Win Friends and Influence People — Dale Carnegie
+5. The Psychology of Money — Morgan Housel
+6. The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter — Michael D. Watkins
+7. Leaders Eat Last — Simon Sinek
+8. The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win — Gene Kim, Kevin Behr, and George Spafford
+9. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois, and John Willis
+10. Git and GitHub for Modern Software Development — Pravin Mishra
 
 ---
 
@@ -237,16 +258,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning & Skills: Learning 14-20hours per week
+* DevOps & Cloud Engineering: Certifications, labs, and projects completed
+* Technical Output: GitHub commits and portfolio projects delivered
+* Career Growth: Professional milestones and leadership responsibilities achieved
+* Time Management: Weekly goal completion rate
+* Health & Energy: Exercise frequency, sleep quality, and energy levels
+* Personal Finance: Savings, investments, and budget tracking
+* Leadership & Impact: Mentoring, community service, and team development activities
+* Spiritual growth: Commit quality reflection time and upholding moral standards
+* Work-life balance satisfaction: Family quality time and get good sleep duration
 
 ---
 
@@ -272,7 +293,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes**
 
 ---
 
@@ -290,7 +311,26 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+My 5-Month Routine + Focus Blocks
+Monday – Thursday
+5:30 AM – 6:30 AM: Deep Work (DevOps/Cloud Engineering learning, labs, GitHub projects)
+30 minutes: Reading (current book)
+15 minutes: Daily planning and goal review
+30 minutes: Physical exercise or walk
+Friday
+5:30 AM – 6:30 AM: Weekly learning recap
+Update GitHub portfolio and learning notes
+Review certifications, assignments, and project progress
+Saturday
+Attend DMI sessions and complete assignments
+1–2 hours practical lab work (Linux, Git, GitHub, Cloud, CI/CD, Docker, etc.)
+Family time and personal commitments
+Sunday
+Worship and family activities
+30 minutes weekly review
+Plan goals for the coming week
+Review finances and budget
+Prepare learning objectives for the next week
 
 ---
 
@@ -298,11 +338,34 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+When I Will Do DMI Work (Days + Time)
+
+Weekdays (Mon – Thu)
+
+5:30 AM – 6:30 AM → DMI learning / assignments (deep focus before work)
+9:00 PM – 9:30 PM → Quick revision or lab practice (light tasks only)
+
+Friday
+
+5:30 AM – 6:30 AM → Weekly assignment submission / recap
+Evening → Rest or catch-up if needed
+
+Saturday
+
+7:00 AM – 9:00 AM → Main DMI practical session (labs, projects, coding practice)
+Optional 1 hour later in the day if tasks are heavy
+
+Sunday
+
+6:00 PM – 7:00 PM → Weekly review + plan next week’s DMI tasks
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 focused sessions per week (ideal)
+
+Mon – Thu: 4 sessions (1 per day, morning deep work)
+Saturday: 1 long practical session (labs/projects)
+Sunday: 1 review + planning session
 
 ---
 
@@ -316,7 +379,41 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+# My Distraction Rules
+
+#Phone Rules
+
+* Phone placed on silent or “Do Not Disturb” during all deep work sessions
+* No social media apps during learning hours
+* Phone kept out of immediate reach during DMI study (at least 2–3 meters away)
+* Only essential calls or messages allowed during scheduled breaks
+
+#Social Media Rules
+
+* No scrolling social media before completing DMI or learning tasks
+* Social media access limited to specific time windows (after work or weekends)
+* No “quick check” rule—every access must have a clear purpose
+* Avoid social media during morning focus sessions
+
+#Environment Setup Rules
+
+* Dedicated study space used only for learning or deep work
+* Desk kept clean before starting any session
+* Required materials (laptop, notebook, charger) prepared before starting to avoid interruptions
+* Background noise minimized (no TV, unnecessary audio distractions)
+
+#Digital Discipline Rules
+
+* Close all unnecessary browser tabs before starting work
+* Use one task at a time (no multitasking during deep work)
+* Log out of distracting platforms when not in use
+
+#Personal Focus Rules
+
+* Start each session with a 2-minute plan (what exactly will be done)
+* No switching tasks until the current task is completed or clearly paused
+* Take short scheduled breaks only after completing a focused block
+
 
 ---
 
@@ -324,28 +421,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I achieve my best progress when I follow a structured, distraction-free routine with consistent daily focus rather than relying on motivation or unplanned time.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is that I tend to delay starting difficult tasks and lose focus to distractions, which breaks my momentum and reduces my overall consistency.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every weekday at 5:30 AM, I will start a 60-minute distraction-free deep work session dedicated only to DMI DevOps learning and projects (phone on silent, no social media, single-task focus).
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/chinazom-mbabuike-89119b13a_devops-cloudengineering-dmicohort3-share-7477134688512311296-jj_u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHX1C0B9WmWuiWfhHlD11Mk0V-8W-zpJh8`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/chinazom-mbabuike-89119b13a_devops-cloudengineering-dmicohort3-share-7477134688512311296-jj_u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHX1C0B9WmWuiWfhHlD11Mk0V-8W-zpJh8**  
+- Blog / Medium : **https://medium.com/@mbabuike.chinazom/success-begins-before-the-first-line-of-code-9c197da4c42d**  
 
 ---
 
